@@ -1,0 +1,18 @@
+{
+    "Name": "Flare Gun",
+    "RequiredGear": ["GEAR_RecycledCan","GEAR_FlareGunAmmoSingle","GEAR_ScrapMetal"],
+    "RequiredGearUnits": [1,1,2],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": ["GEAR_SimpleTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FlareGun",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 45,
+    "CraftingAudio": "Play_CraftingGunPowder",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

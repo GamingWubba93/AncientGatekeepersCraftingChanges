@@ -1,0 +1,18 @@
+{
+    "Name": "Tea_Renewable",
+    "RequiredGear": ["GEAR_RosehipsPrepared","GEAR_BirchbarkPrepared","GEAR_ReishiPrepared"],
+    "RequiredGearUnits": [1,1,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_GreenTeaPackage",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "Play_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
