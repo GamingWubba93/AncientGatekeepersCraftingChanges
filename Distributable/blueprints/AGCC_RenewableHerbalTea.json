@@ -1,5 +1,5 @@
 {
-    "Name": "Tea_Renewable",
+    "Name": "Tea Renewable",
     "RequiredGear": ["GEAR_RosehipsPrepared","GEAR_BirchbarkPrepared","GEAR_ReishiPrepared"],
     "RequiredGearUnits": [1,1,1],
     "KeroseneLitersRequired": 0,

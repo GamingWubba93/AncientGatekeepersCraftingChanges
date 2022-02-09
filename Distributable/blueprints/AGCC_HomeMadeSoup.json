@@ -1,0 +1,18 @@
+{
+    "Name": "Homemade Soup",
+    "RequiredGear": ["GEAR_CannedBeans","GEAR_RawMeatRabbit","GEAR_ReishiMushroom"],
+    "RequiredGearUnits": [1,2,3],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised","GEAR_KnifeScrapMetal"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_HomeMadeSoup",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "Play_OpenCan",
+    "AppliedSkill" : "Cooking",
+    "ImprovedSkill" : "Cooking"
+}
